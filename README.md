@@ -72,7 +72,7 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 
 | **Degree**                               | **Location**         | **Graduation Year** | **Institution**                            | **Details**           |
 |-------------------------------------------|---------------------|---------------------|--------------------------------------------|------------------------|
-| Bachelor of Engineering in Computer Science| Ahmedabad, Gujarat  | 2025               | LJU Badge                              |  SPI: 9.36 (Sem-IV)     |
+| Bachelor of Engineering in Computer Science| Ahmedabad, Gujarat  | 2025               | LJIET                                 |  SPI: 9.36 (Sem-IV)     |
 | 12th Standard (HSC Board)                 | Surat, Gujarat       | 2021               | Aspire Public School                  | Percentage: 80.76%     |
 | 10th Standard (SSC Board)                 | Surat, Gujarat       | 2019               | Aspire Public School                  | Percentage: 79.83%    |
 
@@ -129,9 +129,10 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 ## 🌐 Socials
 
 ### Connect with me:
-   [![GitHub](https://github.com/neel1502)
-   [![LinkedIn](https://www.linkedin.com/in/neel-jasani-b79541263)
-   [![Gmail](mailto:nilljasani@gmail.com)
+   [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/neel1502)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/neel-jasani-b79541263)
+   [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail)](mailto:nilljasani@gmail.com)
+
 
 
 
