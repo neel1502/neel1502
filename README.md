@@ -63,7 +63,7 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 
 ### Responsibilities:
 ### Role-(Frontend Development)
-- Led a team specializing in front-end development using **JavaScript, TypeScript, ReactJS ** to create responsive websites.
+- Lead a team specializing in front-end development using **JavaScript, TypeScript, ReactJS ** to create responsive websites.
 - Built and maintained responsive, high-performance web applications using React.js and Material-UI.
 - Implemented reusable components, state management, and API integrations to enhance user experience.
 
