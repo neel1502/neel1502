@@ -38,13 +38,18 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 
 | **Position**          | React Developer                                              | MERN Developer                                              |
 |-----------------------|------------------------------------------------------------|-------------------------------------------------------------|
-| **Company**           | ![Mobmaxime]                                                | ![RadicalRack] |
+| **Company**           | Mobmaxime                                                  | RadicalRack Technologies|
 | **Duration**          | November 2023 – June 2024                                   | December 2024 – Present                                   |
 | **Location**          | On-Site, Ahmedabad                                         | On-Site, Ahmedabad                                        |
 
+
+ ### MERN Stack Developer | RadicalRack Technologies
+**Duration:** December 2024 – Present  
+**Location:** On-Site, Ahmedabad
+
 ### Responsibilities:
-### Role(Junior Software Developer at RadicalRack Technology)
-- Led a team specializing in front-end development using **JavaScript, TypeScript, ReactJS, and NodeJS** to create responsive websites.
+### Role(Junior Software Developer at RadicalRack Technologies)
+- Lead a team specializing in front-end development using **JavaScript, ReactJS, and NodeJS** to create responsive websites.
 - Developed and maintained responsive, user-friendly websites using React.js.
 - Designed and built RESTful APIs in Node.js with Sequelize ORM for efficient interaction with SQL databases.
 - Collaborated with cross-functional teams to optimize application performance, fix bugs, and implement new features.
@@ -56,7 +61,7 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 **Location:** On-Site, Ahmedabad
 
 **Responsibilities:**
-** Role-((Frontend Development)
+** Role-(Frontend Development)
 - Led a team specializing in front-end development using **JavaScript, TypeScript, ReactJS ** to create responsive websites.
 - Built and maintained responsive, high-performance web applications using React.js and Material-UI.
 - Implemented reusable components, state management, and API integrations to enhance user experience.
@@ -66,9 +71,9 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 
 | **Degree**                               | **Location**         | **Graduation Year** | **Institution**                            | **Details**           |
 |-------------------------------------------|---------------------|---------------------|--------------------------------------------|------------------------|
-| Bachelor of Engineering in Computer Science| Ahmedabad, Gujarat  | 2025               | ![LJU Badge]                              |  SPI: 9.36 (Sem-IV)     |
-| 12th Standard (HSC Board)                 | Surat, Gujarat       | 2021               | ![Aspire Public School] |                 |  Percentage: 80.76%     |
-| 10th Standard (SSC Board)                 | Surat, Gujarat       | 2019               | ![Aspire Public School] |                 |    Percentage: 79.83%    |
+| Bachelor of Engineering in Computer Science| Ahmedabad, Gujarat  | 2025               | LJU Badge                              |  SPI: 9.36 (Sem-IV)     |
+| 12th Standard (HSC Board)                 | Surat, Gujarat       | 2021               | Aspire Public School |                 |  Percentage: 80.76%     |
+| 10th Standard (SSC Board)                 | Surat, Gujarat       | 2019               | Aspire Public School |                 |    Percentage: 79.83%    |
 
 
 ### Bachelor of Engineering | Computer Science Engineering
