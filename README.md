@@ -1,4 +1,4 @@
-<!--
+
 **neel1502/neel1502* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -51,7 +51,7 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 - Gained hands-on experience in full-stack development, ensuring clean code practices, scalability, and responsive design.
 
 
-<!-- ### React Developer | Mobmaxime
+ ### React Developer | Mobmaxime
 **Duration:** November 2023 – June 2024  
 **Location:** On-Site, Ahmedabad
 
