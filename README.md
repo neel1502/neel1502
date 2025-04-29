@@ -93,9 +93,7 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 
 **Graduation:** 2019  
 **Institution:** Aspire Public School - Surat
-**Percentage:** 79.83
-
-%
+**Percentage:** 79.83%
 
 ## 🏆 Certificates
 
