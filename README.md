@@ -60,8 +60,8 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 **Duration:** November 2023 – June 2024  
 **Location:** On-Site, Ahmedabad
 
-**Responsibilities:**
-** Role-(Frontend Development)
+### Responsibilities:
+### Role-(Frontend Development)
 - Led a team specializing in front-end development using **JavaScript, TypeScript, ReactJS ** to create responsive websites.
 - Built and maintained responsive, high-performance web applications using React.js and Material-UI.
 - Implemented reusable components, state management, and API integrations to enhance user experience.
@@ -72,8 +72,8 @@ Hello! I'm **Neel Jasani**, a passionate **Computer  Engineer** based in **Ahmed
 | **Degree**                               | **Location**         | **Graduation Year** | **Institution**                            | **Details**           |
 |-------------------------------------------|---------------------|---------------------|--------------------------------------------|------------------------|
 | Bachelor of Engineering in Computer Science| Ahmedabad, Gujarat  | 2025               | LJU Badge                              |  SPI: 9.36 (Sem-IV)     |
-| 12th Standard (HSC Board)                 | Surat, Gujarat       | 2021               | Aspire Public School |                 |  Percentage: 80.76%     |
-| 10th Standard (SSC Board)                 | Surat, Gujarat       | 2019               | Aspire Public School |                 |    Percentage: 79.83%    |
+| 12th Standard (HSC Board)                 | Surat, Gujarat       | 2021               | Aspire Public School                  | Percentage: 80.76%     |
+| 10th Standard (SSC Board)                 | Surat, Gujarat       | 2019               | Aspire Public School                  | Percentage: 79.83%    |
 
 
 ### Bachelor of Engineering | Computer Science Engineering
