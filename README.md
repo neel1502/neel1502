@@ -36,7 +36,7 @@ Hello! I'm **Neel Jasani**, a passionate **Computer Engineer** based in **Ahmeda
 
 #### Role: Junior Software Developer
 
-- Lead a team specializing in front-end development using **JavaScript, ReactJS, and NodeJS** to create responsive websites.
+- Lead a team specializing in front-end development using **JavaScript, ReactJS ** to create responsive websites.
 - Developed and maintained responsive, user-friendly websites using **React.js**.
 - Designed and built RESTful APIs in **Node.js** with **Sequelize ORM** for efficient interaction with SQL databases.
 - Developing cross-platform mobile applications using React Native for Android and iOS development and design.
@@ -56,7 +56,7 @@ Hello! I'm **Neel Jasani**, a passionate **Computer Engineer** based in **Ahmeda
 
 #### Role: Frontend Developer
 
-- Lead a team specializing in front-end development using **JavaScript, TypeScript, ReactJS** to create responsive websites.
+- front-end development using **JavaScript, TypeScript, ReactJS** to create responsive websites.
 - Built and maintained responsive, high-performance web applications using **React.js** and **Material-UI**.
 - Implemented reusable components, state management, and API integrations to enhance user experience.
 
